@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "dotenv-vault-core": "^0.7.0"
+  }
+}
