@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "dotenv-vault-core": "^0.7.0"
+  },
+  "scripts": {
+    "build": "node index.js"
   }
 }
